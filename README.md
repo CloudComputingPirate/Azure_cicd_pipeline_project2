@@ -22,8 +22,8 @@ Architectural Diagram ->
 
 Project running on Azure App Service. Running in port 5000.
 
-![makeall1](https://user-images.githubusercontent.com/76152268/102795553-fb1b5e00-43d2-11eb-99bf-d7db1d797927.PNG)
-![makeall2](https://user-images.githubusercontent.com/76152268/102795564-fe164e80-43d2-11eb-888c-c038d1cd8462.PNG)
+![azureshellrun1](https://user-images.githubusercontent.com/76152268/102795914-7846d300-43d3-11eb-9f3b-fa289134a917.PNG)
+![azureshellrun2](https://user-images.githubusercontent.com/76152268/102795923-7b41c380-43d3-11eb-9d47-9dafd0e93af0.PNG)
 
 Project cloned into Azure Cloud Shell
 
