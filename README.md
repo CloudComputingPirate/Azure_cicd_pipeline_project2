@@ -8,7 +8,7 @@ Hosting a ML application in Azure cloud shell and using Github Actions and Azure
 Project Plan
 Planning and steps are included in Trello and Google spreadsheet
 Trello board : https://trello.com/b/4z66BC1O/azure-flask-ml-app
-Google Spreadsheet : https://docs.google.com/spreadsheets/d/1Uk-IQCwkit39lTLUoinEyh_AnC5ZVuQTtvhV2snepuQ/edit#gid=1348135932
+Google Spreadsheet : https://docs.google.com/spreadsheets/d/1Uk-IQCwkit39lTLUoinEyh_AnC5ZVuQTtvhV2snepuQ/edit?usp=sharing
 
 Instructions
 <TODO: Architectural Diagram (Shows how key parts of the system work)>
@@ -37,4 +37,5 @@ Enhancements
 <TODO: A short description of how to improve the project in the future>
 
 Demo
-<TODO: Add link Screencast on YouTube>
+
+Youtube link:  https://youtu.be/Qo8wvcuz1YU
