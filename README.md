@@ -20,9 +20,10 @@ Architectural Diagram ->
 
 <TODO: Instructions for running the Python project. How could a user with no context run this project without asking you for any help. Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
-Project running on Azure App Service
+Project running on Azure App Service. Running in port 5000.
 
-
+![makeall1](https://user-images.githubusercontent.com/76152268/102795553-fb1b5e00-43d2-11eb-99bf-d7db1d797927.PNG)
+![makeall2](https://user-images.githubusercontent.com/76152268/102795564-fe164e80-43d2-11eb-888c-c038d1cd8462.PNG)
 
 Project cloned into Azure Cloud Shell
 
