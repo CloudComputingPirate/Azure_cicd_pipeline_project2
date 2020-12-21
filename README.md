@@ -35,8 +35,9 @@ Passing tests that are displayed after running the make all command from the Mak
 ![makeall2](https://user-images.githubusercontent.com/76152268/102793337-c1952380-43cf-11eb-819d-10384bb2d539.PNG)
 
 Output of a test run
-
-
+![githubActions](https://user-images.githubusercontent.com/76152268/102796468-5863df00-43d4-11eb-94ce-3ae990182ac8.PNG)
+![successfulldeployments](https://user-images.githubusercontent.com/76152268/102796421-42561e80-43d4-11eb-80ce-0bec674336b2.PNG)
+![output](https://user-images.githubusercontent.com/76152268/102796586-821d0600-43d4-11eb-8f32-c69d1b430864.PNG)
 
 Successful deploy of the project in Azure Pipelines. Note the official documentation should be referred to and double checked as you setup CI/CD.
 
