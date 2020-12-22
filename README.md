@@ -18,7 +18,17 @@ Architectural Diagram ->
 
 ![architecturaldiagram](https://user-images.githubusercontent.com/76152268/102791915-b80abc00-43cd-11eb-9a86-1474100b84d6.png)
 
-<TODO: Instructions for running the Python project. How could a user with no context run this project without asking you for any help. Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+Instructions:
+
+1. git clone git@github.com:CloudComputingPirate/Azure_cicd_pipeline_project2.git
+2. python3 -m venv ~/.myrepo
+3. source ~/.myrepo/bin/activate
+4. make all
+5. chmod +x make_predict_azure_app.sh
+6. az webapp up -n <your-app-name> -l eastasia --sku B1
+7. Enter your webapp name in make_predict_azure_app.sh file.
+8. ./make_predict_azure_app.sh      ---->  You will get prediction
+9. Go to your webapp to see output.
 
 Project running on Azure App Service. Running in port 5000.
 
@@ -186,9 +196,17 @@ Ending Log Tail of existing logs ---
 
 Starting Live Log Stream ---
 
+Loadtesting with locust:
+
+![locustfile](https://user-images.githubusercontent.com/76152268/102876885-e0e18e80-446b-11eb-9aaa-66488a3d8432.PNG)
+![loustchart1](https://user-images.githubusercontent.com/76152268/102877487-d5db2e00-446c-11eb-9292-a9486d45dbef.PNG)
+![locustchart2](https://user-images.githubusercontent.com/76152268/102877502-da9fe200-446c-11eb-9471-161f1a690b23.PNG)
 
 Enhancements
-<TODO: A short description of how to improve the project in the future>
+
+1. We can run stages in parallel so it takes less time for deployment
+2. We can use terraform , packer for mutiple Vm's with loadbalancer and deploy webapp on it.
+3. We can make prediction inside HTML files to show output in website itself.
 
 Demo
 
